@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+S/EkDfrkCfUTuV7upAM8nGf3qUSb4DzUhJ84AXfvAkQc7gQERW44SvtCEy3l+TYraDd0JAyT652/HCeZ1vEOg==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\.NET\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TSOPMO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TSOPMO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

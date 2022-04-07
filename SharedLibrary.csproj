@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>Figuil.CSdotnet.SharedLibrary</PackageId>
+		<PackageVersion>6.0.0.0</PackageVersion>
+		<Title>C# 10 and .NET 6 Shared Library</Title>
+		<Authors>Gustave Tsopmo</Authors>
+		<PackageLicenseExpression>
+			MS-PL
+		</PackageLicenseExpression>
+		<PackageProjectUrl>
+			https://github.com/GustaveTsopmo/cs10dotnet6.git
+		</PackageProjectUrl>
+		<PackageIcon>figuil-csdotnet-sharedlibrary.png</PackageIcon>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<PackageReleaseNotes>
+			Example shared library packaged for NuGet.
+		</PackageReleaseNotes>
+		<Description>
+			Three extension methods to validate a string value.
+		</Description>
+		<Copyright>
+			Copyright © 2019-2022 Figuil Publishing Limited
+		</Copyright>
+		<PackageTags>string extensions packt csharp dotnet</PackageTags>
+
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="figuil-csdotnet-sharedlibrary.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>
